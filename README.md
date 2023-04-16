@@ -1,2 +1,2 @@
-NKU—Parallel
-2023 Spring Professor王
+# NKU—Parallel
+2023 Spring

@@ -1,2 +1,2 @@
-# NKU—Parallel
+# 南开大学—并行程序设计
 2023 Spring
